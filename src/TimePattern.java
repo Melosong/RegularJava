@@ -1,4 +1,5 @@
 import java.util.regex.Pattern;
+//регулярное выражение, проверяющее правильный ли формат времени
 public class TimePattern {
 
     private static final String TIME = "([01]?[0-9]|2[0-3]):[0-5][0-9]";
